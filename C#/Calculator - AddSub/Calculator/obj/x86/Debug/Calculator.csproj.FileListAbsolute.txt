@@ -1,0 +1,8 @@
+C:\Users\User\Documents\Visual Studio 2010\Projects\C#PROJECTS\Calculator\Calculator\bin\Debug\Calculator.exe
+C:\Users\User\Documents\Visual Studio 2010\Projects\C#PROJECTS\Calculator\Calculator\bin\Debug\Calculator.pdb
+C:\Users\User\Documents\Visual Studio 2010\Projects\C#PROJECTS\Calculator\Calculator\obj\x86\Debug\Calculator.Form1.resources
+C:\Users\User\Documents\Visual Studio 2010\Projects\C#PROJECTS\Calculator\Calculator\obj\x86\Debug\Calculator.Properties.Resources.resources
+C:\Users\User\Documents\Visual Studio 2010\Projects\C#PROJECTS\Calculator\Calculator\obj\x86\Debug\Calculator.csproj.GenerateResource.Cache
+C:\Users\User\Documents\Visual Studio 2010\Projects\C#PROJECTS\Calculator\Calculator\obj\x86\Debug\Calculator.exe
+C:\Users\User\Documents\Visual Studio 2010\Projects\C#PROJECTS\Calculator\Calculator\obj\x86\Debug\Calculator.pdb
+C:\Users\User\Documents\Visual Studio 2010\Projects\C#PROJECTS\Calculator\Calculator\obj\x86\Debug\Calculator.csprojResolveAssemblyReference.cache

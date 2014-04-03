@@ -1,0 +1,9 @@
+C:\Users\User\Documents\Visual Studio 2010\Projects\C#PROJECTS\Database\Database\bin\Debug\Employees.mdf
+C:\Users\User\Documents\Visual Studio 2010\Projects\C#PROJECTS\Database\Database\bin\Debug\Employees_log.ldf
+C:\Users\User\Documents\Visual Studio 2010\Projects\C#PROJECTS\Database\Database\bin\Debug\Database.exe.config
+C:\Users\User\Documents\Visual Studio 2010\Projects\C#PROJECTS\Database\Database\bin\Debug\Database.exe
+C:\Users\User\Documents\Visual Studio 2010\Projects\C#PROJECTS\Database\Database\bin\Debug\Database.pdb
+C:\Users\User\Documents\Visual Studio 2010\Projects\C#PROJECTS\Database\Database\obj\x86\Debug\Database.Properties.Resources.resources
+C:\Users\User\Documents\Visual Studio 2010\Projects\C#PROJECTS\Database\Database\obj\x86\Debug\Database.csproj.GenerateResource.Cache
+C:\Users\User\Documents\Visual Studio 2010\Projects\C#PROJECTS\Database\Database\obj\x86\Debug\Database.exe
+C:\Users\User\Documents\Visual Studio 2010\Projects\C#PROJECTS\Database\Database\obj\x86\Debug\Database.pdb

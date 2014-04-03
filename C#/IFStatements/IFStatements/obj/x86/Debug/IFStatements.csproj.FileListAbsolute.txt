@@ -1,0 +1,7 @@
+C:\Users\User\Documents\Visual Studio 2010\Projects\C#PROJECTS\IFStatements\IFStatements\obj\x86\Debug\IFStatements.Form1.resources
+C:\Users\User\Documents\Visual Studio 2010\Projects\C#PROJECTS\IFStatements\IFStatements\obj\x86\Debug\IFStatements.Properties.Resources.resources
+C:\Users\User\Documents\Visual Studio 2010\Projects\C#PROJECTS\IFStatements\IFStatements\obj\x86\Debug\IFStatements.csproj.GenerateResource.Cache
+C:\Users\User\Documents\Visual Studio 2010\Projects\C#PROJECTS\IFStatements\IFStatements\bin\Debug\IFStatements.exe
+C:\Users\User\Documents\Visual Studio 2010\Projects\C#PROJECTS\IFStatements\IFStatements\bin\Debug\IFStatements.pdb
+C:\Users\User\Documents\Visual Studio 2010\Projects\C#PROJECTS\IFStatements\IFStatements\obj\x86\Debug\IFStatements.exe
+C:\Users\User\Documents\Visual Studio 2010\Projects\C#PROJECTS\IFStatements\IFStatements\obj\x86\Debug\IFStatements.pdb
