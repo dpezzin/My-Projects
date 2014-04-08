@@ -1,0 +1,9 @@
+c:\users\user\documents\visual studio 2010\Projects\Menu_Bar\Menu_Bar\obj\x86\Debug\Menu_Bar.Form1.resources
+c:\users\user\documents\visual studio 2010\Projects\Menu_Bar\Menu_Bar\obj\x86\Debug\Menu_Bar.Resources.resources
+c:\users\user\documents\visual studio 2010\Projects\Menu_Bar\Menu_Bar\obj\x86\Debug\Menu_Bar.vbproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2010\Projects\Menu_Bar\Menu_Bar\bin\Debug\Menu_Bar.exe
+c:\users\user\documents\visual studio 2010\Projects\Menu_Bar\Menu_Bar\bin\Debug\Menu_Bar.pdb
+c:\users\user\documents\visual studio 2010\Projects\Menu_Bar\Menu_Bar\bin\Debug\Menu_Bar.xml
+c:\users\user\documents\visual studio 2010\Projects\Menu_Bar\Menu_Bar\obj\x86\Debug\Menu_Bar.exe
+c:\users\user\documents\visual studio 2010\Projects\Menu_Bar\Menu_Bar\obj\x86\Debug\Menu_Bar.xml
+c:\users\user\documents\visual studio 2010\Projects\Menu_Bar\Menu_Bar\obj\x86\Debug\Menu_Bar.pdb
