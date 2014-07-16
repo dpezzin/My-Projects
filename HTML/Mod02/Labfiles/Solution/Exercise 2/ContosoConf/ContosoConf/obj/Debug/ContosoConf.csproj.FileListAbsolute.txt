@@ -1,0 +1,6 @@
+C:\My Websites\HTML, CSS, JavaScript\Mod02\Labfiles\Solution\Exercise 2\ContosoConf\ContosoConf\bin\ContosoConf.dll.config
+C:\My Websites\HTML, CSS, JavaScript\Mod02\Labfiles\Solution\Exercise 2\ContosoConf\ContosoConf\bin\ContosoConf.dll
+C:\My Websites\HTML, CSS, JavaScript\Mod02\Labfiles\Solution\Exercise 2\ContosoConf\ContosoConf\bin\ContosoConf.pdb
+C:\My Websites\HTML, CSS, JavaScript\Mod02\Labfiles\Solution\Exercise 2\ContosoConf\ContosoConf\obj\Debug\ContosoConf.csprojResolveAssemblyReference.cache
+C:\My Websites\HTML, CSS, JavaScript\Mod02\Labfiles\Solution\Exercise 2\ContosoConf\ContosoConf\obj\Debug\ContosoConf.dll
+C:\My Websites\HTML, CSS, JavaScript\Mod02\Labfiles\Solution\Exercise 2\ContosoConf\ContosoConf\obj\Debug\ContosoConf.pdb

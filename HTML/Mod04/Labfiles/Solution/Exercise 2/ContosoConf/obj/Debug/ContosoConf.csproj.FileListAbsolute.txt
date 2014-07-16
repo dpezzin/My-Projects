@@ -1,0 +1,13 @@
+C:\My Websites\HTML, CSS, JavaScript\Mod04\Labfiles\Solution\Exercise 2\ContosoConf\obj\Debug\ContosoConf.csprojResolveAssemblyReference.cache
+C:\My Websites\HTML, CSS, JavaScript\Mod04\Labfiles\Solution\Exercise 2\ContosoConf\bin\ContosoConf.dll.config
+C:\My Websites\HTML, CSS, JavaScript\Mod04\Labfiles\Solution\Exercise 2\ContosoConf\bin\ContosoConf.dll
+C:\My Websites\HTML, CSS, JavaScript\Mod04\Labfiles\Solution\Exercise 2\ContosoConf\bin\ContosoConf.pdb
+C:\My Websites\HTML, CSS, JavaScript\Mod04\Labfiles\Solution\Exercise 2\ContosoConf\bin\Microsoft.Web.Infrastructure.dll
+C:\My Websites\HTML, CSS, JavaScript\Mod04\Labfiles\Solution\Exercise 2\ContosoConf\bin\System.Web.Helpers.dll
+C:\My Websites\HTML, CSS, JavaScript\Mod04\Labfiles\Solution\Exercise 2\ContosoConf\bin\System.Web.Mvc.dll
+C:\My Websites\HTML, CSS, JavaScript\Mod04\Labfiles\Solution\Exercise 2\ContosoConf\bin\System.Web.Razor.dll
+C:\My Websites\HTML, CSS, JavaScript\Mod04\Labfiles\Solution\Exercise 2\ContosoConf\bin\System.Web.WebPages.Deployment.dll
+C:\My Websites\HTML, CSS, JavaScript\Mod04\Labfiles\Solution\Exercise 2\ContosoConf\bin\System.Web.WebPages.dll
+C:\My Websites\HTML, CSS, JavaScript\Mod04\Labfiles\Solution\Exercise 2\ContosoConf\bin\System.Web.WebPages.Razor.dll
+C:\My Websites\HTML, CSS, JavaScript\Mod04\Labfiles\Solution\Exercise 2\ContosoConf\obj\Debug\ContosoConf.dll
+C:\My Websites\HTML, CSS, JavaScript\Mod04\Labfiles\Solution\Exercise 2\ContosoConf\obj\Debug\ContosoConf.pdb

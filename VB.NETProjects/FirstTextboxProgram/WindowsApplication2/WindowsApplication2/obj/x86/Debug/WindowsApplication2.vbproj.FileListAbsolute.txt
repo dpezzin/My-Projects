@@ -10,3 +10,6 @@ c:\users\user\documents\visual studio 2010\Projects\WindowsApplication2\WindowsA
 C:\Users\User\Desktop\Dropbox\VB.NETProjects\FirstTextboxProgram\WindowsApplication2\WindowsApplication2\obj\x86\Debug\WindowsApplication2.exe
 C:\Users\User\Desktop\Dropbox\VB.NETProjects\FirstTextboxProgram\WindowsApplication2\WindowsApplication2\obj\x86\Debug\WindowsApplication2.xml
 C:\Users\User\Desktop\Dropbox\VB.NETProjects\FirstTextboxProgram\WindowsApplication2\WindowsApplication2\obj\x86\Debug\WindowsApplication2.pdb
+C:\Users\User\My-Projects\VB.NETProjects\FirstTextboxProgram\WindowsApplication2\WindowsApplication2\obj\x86\Debug\WindowsApplication2.exe
+C:\Users\User\My-Projects\VB.NETProjects\FirstTextboxProgram\WindowsApplication2\WindowsApplication2\obj\x86\Debug\WindowsApplication2.xml
+C:\Users\User\My-Projects\VB.NETProjects\FirstTextboxProgram\WindowsApplication2\WindowsApplication2\obj\x86\Debug\WindowsApplication2.pdb

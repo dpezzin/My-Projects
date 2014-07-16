@@ -6,3 +6,4 @@ C:\Users\User\Documents\Visual Studio 2010\Projects\C#PROJECTS\Calculator\Calcul
 C:\Users\User\Documents\Visual Studio 2010\Projects\C#PROJECTS\Calculator\Calculator\obj\x86\Debug\Calculator.exe
 C:\Users\User\Documents\Visual Studio 2010\Projects\C#PROJECTS\Calculator\Calculator\obj\x86\Debug\Calculator.pdb
 C:\Users\User\Documents\Visual Studio 2010\Projects\C#PROJECTS\Calculator\Calculator\obj\x86\Debug\Calculator.csprojResolveAssemblyReference.cache
+C:\Users\User\My-Projects\C#\Calculator\Calculator\obj\x86\Debug\Calculator.pdb
