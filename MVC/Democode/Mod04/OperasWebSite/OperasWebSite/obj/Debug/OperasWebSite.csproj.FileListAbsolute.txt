@@ -1,0 +1,85 @@
+C:\AllFiles\Mod3\Democode\OperasWebSite\OperasWebSite\bin\EntityFramework.dll
+C:\AllFiles\Mod3\Democode\OperasWebSite\OperasWebSite\bin\Microsoft.Web.Infrastructure.dll
+C:\AllFiles\Mod3\Democode\OperasWebSite\OperasWebSite\bin\Newtonsoft.Json.dll
+C:\AllFiles\Mod3\Democode\OperasWebSite\OperasWebSite\bin\System.Net.Http.Formatting.dll
+C:\AllFiles\Mod3\Democode\OperasWebSite\OperasWebSite\bin\System.Web.Helpers.dll
+C:\AllFiles\Mod3\Democode\OperasWebSite\OperasWebSite\bin\System.Web.Http.dll
+C:\AllFiles\Mod3\Democode\OperasWebSite\OperasWebSite\bin\System.Web.Http.WebHost.dll
+C:\AllFiles\Mod3\Democode\OperasWebSite\OperasWebSite\bin\System.Web.Mvc.dll
+C:\AllFiles\Mod3\Democode\OperasWebSite\OperasWebSite\bin\System.Web.Razor.dll
+C:\AllFiles\Mod3\Democode\OperasWebSite\OperasWebSite\bin\System.Web.WebPages.Deployment.dll
+C:\AllFiles\Mod3\Democode\OperasWebSite\OperasWebSite\bin\System.Web.WebPages.dll
+C:\AllFiles\Mod3\Democode\OperasWebSite\OperasWebSite\bin\System.Web.WebPages.Razor.dll
+C:\AllFiles\Mod3\Democode\OperasWebSite\OperasWebSite\bin\EntityFramework.xml
+C:\AllFiles\Mod3\Democode\OperasWebSite\OperasWebSite\bin\Newtonsoft.Json.xml
+C:\AllFiles\Mod3\Democode\OperasWebSite\OperasWebSite\bin\System.Net.Http.Formatting.xml
+C:\AllFiles\Mod3\Democode\OperasWebSite\OperasWebSite\bin\System.Web.Helpers.xml
+C:\AllFiles\Mod3\Democode\OperasWebSite\OperasWebSite\bin\System.Web.Http.xml
+C:\AllFiles\Mod3\Democode\OperasWebSite\OperasWebSite\bin\System.Web.Http.WebHost.xml
+C:\AllFiles\Mod3\Democode\OperasWebSite\OperasWebSite\bin\System.Web.Mvc.xml
+C:\AllFiles\Mod3\Democode\OperasWebSite\OperasWebSite\bin\System.Web.Razor.xml
+C:\AllFiles\Mod3\Democode\OperasWebSite\OperasWebSite\bin\System.Web.WebPages.xml
+C:\AllFiles\Mod3\Democode\OperasWebSite\OperasWebSite\bin\System.Web.WebPages.Deployment.xml
+C:\AllFiles\Mod3\Democode\OperasWebSite\OperasWebSite\bin\System.Web.WebPages.Razor.xml
+C:\AllFiles\Mod3\Democode\OperasWebSite\OperasWebSite\obj\Debug\OperasWebSite.csprojResolveAssemblyReference.cache
+C:\AllFiles\Mod3\Democode\OperasWebSite\OperasWebSite\bin\OperasWebSite.dll
+C:\AllFiles\Mod3\Democode\OperasWebSite\OperasWebSite\bin\OperasWebSite.pdb
+C:\AllFiles\Mod3\Democode\OperasWebSite\OperasWebSite\obj\Debug\OperasWebSite.dll
+C:\AllFiles\Mod3\Democode\OperasWebSite\OperasWebSite\obj\Debug\OperasWebSite.pdb
+C:\AllFiles\Mod4\DemoCode\OperasWebSite\OperasWebSite\bin\OperasWebSite.dll
+C:\AllFiles\Mod4\DemoCode\OperasWebSite\OperasWebSite\bin\OperasWebSite.pdb
+C:\AllFiles\Mod4\DemoCode\OperasWebSite\OperasWebSite\bin\EntityFramework.dll
+C:\AllFiles\Mod4\DemoCode\OperasWebSite\OperasWebSite\bin\Microsoft.Web.Infrastructure.dll
+C:\AllFiles\Mod4\DemoCode\OperasWebSite\OperasWebSite\bin\Newtonsoft.Json.dll
+C:\AllFiles\Mod4\DemoCode\OperasWebSite\OperasWebSite\bin\System.Net.Http.Formatting.dll
+C:\AllFiles\Mod4\DemoCode\OperasWebSite\OperasWebSite\bin\System.Web.Helpers.dll
+C:\AllFiles\Mod4\DemoCode\OperasWebSite\OperasWebSite\bin\System.Web.Http.dll
+C:\AllFiles\Mod4\DemoCode\OperasWebSite\OperasWebSite\bin\System.Web.Http.WebHost.dll
+C:\AllFiles\Mod4\DemoCode\OperasWebSite\OperasWebSite\bin\System.Web.Mvc.dll
+C:\AllFiles\Mod4\DemoCode\OperasWebSite\OperasWebSite\bin\System.Web.Razor.dll
+C:\AllFiles\Mod4\DemoCode\OperasWebSite\OperasWebSite\bin\System.Web.WebPages.Deployment.dll
+C:\AllFiles\Mod4\DemoCode\OperasWebSite\OperasWebSite\bin\System.Web.WebPages.dll
+C:\AllFiles\Mod4\DemoCode\OperasWebSite\OperasWebSite\bin\System.Web.WebPages.Razor.dll
+C:\AllFiles\Mod4\DemoCode\OperasWebSite\OperasWebSite\bin\EntityFramework.xml
+C:\AllFiles\Mod4\DemoCode\OperasWebSite\OperasWebSite\bin\Newtonsoft.Json.xml
+C:\AllFiles\Mod4\DemoCode\OperasWebSite\OperasWebSite\bin\System.Net.Http.Formatting.xml
+C:\AllFiles\Mod4\DemoCode\OperasWebSite\OperasWebSite\bin\System.Web.Helpers.xml
+C:\AllFiles\Mod4\DemoCode\OperasWebSite\OperasWebSite\bin\System.Web.Http.xml
+C:\AllFiles\Mod4\DemoCode\OperasWebSite\OperasWebSite\bin\System.Web.Http.WebHost.xml
+C:\AllFiles\Mod4\DemoCode\OperasWebSite\OperasWebSite\bin\System.Web.Mvc.xml
+C:\AllFiles\Mod4\DemoCode\OperasWebSite\OperasWebSite\bin\System.Web.Razor.xml
+C:\AllFiles\Mod4\DemoCode\OperasWebSite\OperasWebSite\bin\System.Web.WebPages.xml
+C:\AllFiles\Mod4\DemoCode\OperasWebSite\OperasWebSite\bin\System.Web.WebPages.Deployment.xml
+C:\AllFiles\Mod4\DemoCode\OperasWebSite\OperasWebSite\bin\System.Web.WebPages.Razor.xml
+C:\AllFiles\Mod4\DemoCode\OperasWebSite\OperasWebSite\obj\Debug\OperasWebSite.csprojResolveAssemblyReference.cache
+C:\AllFiles\Mod4\DemoCode\OperasWebSite\OperasWebSite\obj\Debug\OperasWebSite.dll
+C:\AllFiles\Mod4\DemoCode\OperasWebSite\OperasWebSite\obj\Debug\OperasWebSite.pdb
+C:\My Websites\MVC\Democode\Mod04\OperasWebSite\OperasWebSite\bin\OperasWebSite.dll.config
+C:\My Websites\MVC\Democode\Mod04\OperasWebSite\OperasWebSite\bin\OperasWebSite.dll
+C:\My Websites\MVC\Democode\Mod04\OperasWebSite\OperasWebSite\bin\OperasWebSite.pdb
+C:\My Websites\MVC\Democode\Mod04\OperasWebSite\OperasWebSite\bin\EntityFramework.dll
+C:\My Websites\MVC\Democode\Mod04\OperasWebSite\OperasWebSite\bin\Microsoft.Web.Infrastructure.dll
+C:\My Websites\MVC\Democode\Mod04\OperasWebSite\OperasWebSite\bin\Newtonsoft.Json.dll
+C:\My Websites\MVC\Democode\Mod04\OperasWebSite\OperasWebSite\bin\System.Net.Http.Formatting.dll
+C:\My Websites\MVC\Democode\Mod04\OperasWebSite\OperasWebSite\bin\System.Web.Helpers.dll
+C:\My Websites\MVC\Democode\Mod04\OperasWebSite\OperasWebSite\bin\System.Web.Http.dll
+C:\My Websites\MVC\Democode\Mod04\OperasWebSite\OperasWebSite\bin\System.Web.Http.WebHost.dll
+C:\My Websites\MVC\Democode\Mod04\OperasWebSite\OperasWebSite\bin\System.Web.Mvc.dll
+C:\My Websites\MVC\Democode\Mod04\OperasWebSite\OperasWebSite\bin\System.Web.Razor.dll
+C:\My Websites\MVC\Democode\Mod04\OperasWebSite\OperasWebSite\bin\System.Web.WebPages.Deployment.dll
+C:\My Websites\MVC\Democode\Mod04\OperasWebSite\OperasWebSite\bin\System.Web.WebPages.dll
+C:\My Websites\MVC\Democode\Mod04\OperasWebSite\OperasWebSite\bin\System.Web.WebPages.Razor.dll
+C:\My Websites\MVC\Democode\Mod04\OperasWebSite\OperasWebSite\bin\EntityFramework.xml
+C:\My Websites\MVC\Democode\Mod04\OperasWebSite\OperasWebSite\bin\Newtonsoft.Json.xml
+C:\My Websites\MVC\Democode\Mod04\OperasWebSite\OperasWebSite\bin\System.Net.Http.Formatting.xml
+C:\My Websites\MVC\Democode\Mod04\OperasWebSite\OperasWebSite\bin\System.Web.Helpers.xml
+C:\My Websites\MVC\Democode\Mod04\OperasWebSite\OperasWebSite\bin\System.Web.Http.xml
+C:\My Websites\MVC\Democode\Mod04\OperasWebSite\OperasWebSite\bin\System.Web.Http.WebHost.xml
+C:\My Websites\MVC\Democode\Mod04\OperasWebSite\OperasWebSite\bin\System.Web.Mvc.xml
+C:\My Websites\MVC\Democode\Mod04\OperasWebSite\OperasWebSite\bin\System.Web.Razor.xml
+C:\My Websites\MVC\Democode\Mod04\OperasWebSite\OperasWebSite\bin\System.Web.WebPages.xml
+C:\My Websites\MVC\Democode\Mod04\OperasWebSite\OperasWebSite\bin\System.Web.WebPages.Deployment.xml
+C:\My Websites\MVC\Democode\Mod04\OperasWebSite\OperasWebSite\bin\System.Web.WebPages.Razor.xml
+C:\My Websites\MVC\Democode\Mod04\OperasWebSite\OperasWebSite\obj\Debug\OperasWebSite.csprojResolveAssemblyReference.cache
+C:\My Websites\MVC\Democode\Mod04\OperasWebSite\OperasWebSite\obj\Debug\OperasWebSite.dll
+C:\My Websites\MVC\Democode\Mod04\OperasWebSite\OperasWebSite\obj\Debug\OperasWebSite.pdb

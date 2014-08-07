@@ -1,0 +1,57 @@
+C:\AllFiles\Mod3\Labfiles\PhotoSharingApplication\PhotoSharingApplication\PhotoSharingApplication\bin\PhotoSharingApplication.dll
+C:\AllFiles\Mod3\Labfiles\PhotoSharingApplication\PhotoSharingApplication\PhotoSharingApplication\bin\PhotoSharingApplication.pdb
+C:\AllFiles\Mod3\Labfiles\PhotoSharingApplication\PhotoSharingApplication\PhotoSharingApplication\bin\EntityFramework.dll
+C:\AllFiles\Mod3\Labfiles\PhotoSharingApplication\PhotoSharingApplication\PhotoSharingApplication\bin\Microsoft.Web.Infrastructure.dll
+C:\AllFiles\Mod3\Labfiles\PhotoSharingApplication\PhotoSharingApplication\PhotoSharingApplication\bin\Newtonsoft.Json.dll
+C:\AllFiles\Mod3\Labfiles\PhotoSharingApplication\PhotoSharingApplication\PhotoSharingApplication\bin\System.Net.Http.Formatting.dll
+C:\AllFiles\Mod3\Labfiles\PhotoSharingApplication\PhotoSharingApplication\PhotoSharingApplication\bin\System.Web.Helpers.dll
+C:\AllFiles\Mod3\Labfiles\PhotoSharingApplication\PhotoSharingApplication\PhotoSharingApplication\bin\System.Web.Http.dll
+C:\AllFiles\Mod3\Labfiles\PhotoSharingApplication\PhotoSharingApplication\PhotoSharingApplication\bin\System.Web.Http.WebHost.dll
+C:\AllFiles\Mod3\Labfiles\PhotoSharingApplication\PhotoSharingApplication\PhotoSharingApplication\bin\System.Web.Mvc.dll
+C:\AllFiles\Mod3\Labfiles\PhotoSharingApplication\PhotoSharingApplication\PhotoSharingApplication\bin\System.Web.Razor.dll
+C:\AllFiles\Mod3\Labfiles\PhotoSharingApplication\PhotoSharingApplication\PhotoSharingApplication\bin\System.Web.WebPages.Deployment.dll
+C:\AllFiles\Mod3\Labfiles\PhotoSharingApplication\PhotoSharingApplication\PhotoSharingApplication\bin\System.Web.WebPages.dll
+C:\AllFiles\Mod3\Labfiles\PhotoSharingApplication\PhotoSharingApplication\PhotoSharingApplication\bin\System.Web.WebPages.Razor.dll
+C:\AllFiles\Mod3\Labfiles\PhotoSharingApplication\PhotoSharingApplication\PhotoSharingApplication\bin\EntityFramework.xml
+C:\AllFiles\Mod3\Labfiles\PhotoSharingApplication\PhotoSharingApplication\PhotoSharingApplication\bin\Newtonsoft.Json.xml
+C:\AllFiles\Mod3\Labfiles\PhotoSharingApplication\PhotoSharingApplication\PhotoSharingApplication\bin\System.Net.Http.Formatting.xml
+C:\AllFiles\Mod3\Labfiles\PhotoSharingApplication\PhotoSharingApplication\PhotoSharingApplication\bin\System.Web.Helpers.xml
+C:\AllFiles\Mod3\Labfiles\PhotoSharingApplication\PhotoSharingApplication\PhotoSharingApplication\bin\System.Web.Http.xml
+C:\AllFiles\Mod3\Labfiles\PhotoSharingApplication\PhotoSharingApplication\PhotoSharingApplication\bin\System.Web.Http.WebHost.xml
+C:\AllFiles\Mod3\Labfiles\PhotoSharingApplication\PhotoSharingApplication\PhotoSharingApplication\bin\System.Web.Mvc.xml
+C:\AllFiles\Mod3\Labfiles\PhotoSharingApplication\PhotoSharingApplication\PhotoSharingApplication\bin\System.Web.Razor.xml
+C:\AllFiles\Mod3\Labfiles\PhotoSharingApplication\PhotoSharingApplication\PhotoSharingApplication\bin\System.Web.WebPages.xml
+C:\AllFiles\Mod3\Labfiles\PhotoSharingApplication\PhotoSharingApplication\PhotoSharingApplication\bin\System.Web.WebPages.Deployment.xml
+C:\AllFiles\Mod3\Labfiles\PhotoSharingApplication\PhotoSharingApplication\PhotoSharingApplication\bin\System.Web.WebPages.Razor.xml
+C:\AllFiles\Mod3\Labfiles\PhotoSharingApplication\PhotoSharingApplication\PhotoSharingApplication\obj\Debug\PhotoSharingApplication.csprojResolveAssemblyReference.cache
+C:\AllFiles\Mod3\Labfiles\PhotoSharingApplication\PhotoSharingApplication\PhotoSharingApplication\obj\Debug\PhotoSharingApplication.dll
+C:\AllFiles\Mod3\Labfiles\PhotoSharingApplication\PhotoSharingApplication\PhotoSharingApplication\obj\Debug\PhotoSharingApplication.pdb
+C:\My Websites\MVC\Labfiles\Mod03\Solution\PhotoSharingApplication\PhotoSharingApplication\bin\PhotoSharingApplication.dll.config
+C:\My Websites\MVC\Labfiles\Mod03\Solution\PhotoSharingApplication\PhotoSharingApplication\bin\PhotoSharingApplication.dll
+C:\My Websites\MVC\Labfiles\Mod03\Solution\PhotoSharingApplication\PhotoSharingApplication\bin\PhotoSharingApplication.pdb
+C:\My Websites\MVC\Labfiles\Mod03\Solution\PhotoSharingApplication\PhotoSharingApplication\bin\EntityFramework.dll
+C:\My Websites\MVC\Labfiles\Mod03\Solution\PhotoSharingApplication\PhotoSharingApplication\bin\Microsoft.Web.Infrastructure.dll
+C:\My Websites\MVC\Labfiles\Mod03\Solution\PhotoSharingApplication\PhotoSharingApplication\bin\Newtonsoft.Json.dll
+C:\My Websites\MVC\Labfiles\Mod03\Solution\PhotoSharingApplication\PhotoSharingApplication\bin\System.Net.Http.Formatting.dll
+C:\My Websites\MVC\Labfiles\Mod03\Solution\PhotoSharingApplication\PhotoSharingApplication\bin\System.Web.Helpers.dll
+C:\My Websites\MVC\Labfiles\Mod03\Solution\PhotoSharingApplication\PhotoSharingApplication\bin\System.Web.Http.dll
+C:\My Websites\MVC\Labfiles\Mod03\Solution\PhotoSharingApplication\PhotoSharingApplication\bin\System.Web.Http.WebHost.dll
+C:\My Websites\MVC\Labfiles\Mod03\Solution\PhotoSharingApplication\PhotoSharingApplication\bin\System.Web.Mvc.dll
+C:\My Websites\MVC\Labfiles\Mod03\Solution\PhotoSharingApplication\PhotoSharingApplication\bin\System.Web.Razor.dll
+C:\My Websites\MVC\Labfiles\Mod03\Solution\PhotoSharingApplication\PhotoSharingApplication\bin\System.Web.WebPages.Deployment.dll
+C:\My Websites\MVC\Labfiles\Mod03\Solution\PhotoSharingApplication\PhotoSharingApplication\bin\System.Web.WebPages.dll
+C:\My Websites\MVC\Labfiles\Mod03\Solution\PhotoSharingApplication\PhotoSharingApplication\bin\System.Web.WebPages.Razor.dll
+C:\My Websites\MVC\Labfiles\Mod03\Solution\PhotoSharingApplication\PhotoSharingApplication\bin\EntityFramework.xml
+C:\My Websites\MVC\Labfiles\Mod03\Solution\PhotoSharingApplication\PhotoSharingApplication\bin\Newtonsoft.Json.xml
+C:\My Websites\MVC\Labfiles\Mod03\Solution\PhotoSharingApplication\PhotoSharingApplication\bin\System.Net.Http.Formatting.xml
+C:\My Websites\MVC\Labfiles\Mod03\Solution\PhotoSharingApplication\PhotoSharingApplication\bin\System.Web.Helpers.xml
+C:\My Websites\MVC\Labfiles\Mod03\Solution\PhotoSharingApplication\PhotoSharingApplication\bin\System.Web.Http.xml
+C:\My Websites\MVC\Labfiles\Mod03\Solution\PhotoSharingApplication\PhotoSharingApplication\bin\System.Web.Http.WebHost.xml
+C:\My Websites\MVC\Labfiles\Mod03\Solution\PhotoSharingApplication\PhotoSharingApplication\bin\System.Web.Mvc.xml
+C:\My Websites\MVC\Labfiles\Mod03\Solution\PhotoSharingApplication\PhotoSharingApplication\bin\System.Web.Razor.xml
+C:\My Websites\MVC\Labfiles\Mod03\Solution\PhotoSharingApplication\PhotoSharingApplication\bin\System.Web.WebPages.xml
+C:\My Websites\MVC\Labfiles\Mod03\Solution\PhotoSharingApplication\PhotoSharingApplication\bin\System.Web.WebPages.Deployment.xml
+C:\My Websites\MVC\Labfiles\Mod03\Solution\PhotoSharingApplication\PhotoSharingApplication\bin\System.Web.WebPages.Razor.xml
+C:\My Websites\MVC\Labfiles\Mod03\Solution\PhotoSharingApplication\PhotoSharingApplication\obj\Debug\PhotoSharingApplication.csprojResolveAssemblyReference.cache
+C:\My Websites\MVC\Labfiles\Mod03\Solution\PhotoSharingApplication\PhotoSharingApplication\obj\Debug\PhotoSharingApplication.dll
+C:\My Websites\MVC\Labfiles\Mod03\Solution\PhotoSharingApplication\PhotoSharingApplication\obj\Debug\PhotoSharingApplication.pdb
