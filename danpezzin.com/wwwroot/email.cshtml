@@ -1,0 +1,39 @@
+@{
+    var errorMessage = "";
+ 
+    if (IsPost)
+    {
+        var toEmail = Request["toEmail"];
+        var fromEmail = Request["fromEmail"];
+        var subject = Request["subject"];
+        var body = Request["body"];
+ 
+        try {
+            WebMail.SmtpServer = "smtp.gmail.com";
+            WebMail.SmtpPort = 465;
+            WebMail.EnableSsl = true;
+            WebMail.UserName = "*danpezzin@gmail.com";
+            WebMail.Password = "*Michfball#16*";
+            WebMail.From = fromEmail;
+            WebMail.Send(to: toEmail,
+                subject: subject,
+                body: body
+            );
+        }
+        catch (Exception ex ) {
+            errorMessage = ex.Message;
+        }
+    }
+}
+
+@if (errorMessage !="") {
+<div>Error: @errorMessage</div> 
+}
+
+<form method="post">
+ From Address: <input type="text" name="fromEmail" />
+ To Address: <input type="text" name="toEmail" />
+ Subject: <input type="text" name="subject" />
+ Body: <textarea id="body" cols="40" rows="10"></textarea>
+ <input id="Submit1" type="submit" value="submit" />
+</form>
