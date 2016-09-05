@@ -1,17 +1,16 @@
 ﻿using System;
 using System.IO;
 
-class DirAppend
+class Deposit
 {
     public static void Main()
     {
-        using (StreamWriter w = File.AppendText("log.txt"))
+        using (StreamWriter w = File.AppendText("account_summary.txt"))
         {
             Log("Test1", w);
-            Log("Test2", w);
         }
 
-        using (StreamReader r = File.OpenText("log.txt"))
+        using (StreamReader r = File.OpenText("account_summary.txt"))
         {
             DumpLog(r);
         }
@@ -19,11 +18,15 @@ class DirAppend
 
     public static void Log(string logMessage, TextWriter w)
     {
-        w.Write("\r\nLog Entry : ");
+        w.Write("\r\n[+] : ");
         w.WriteLine("{0} {1}", DateTime.Now.ToLongTimeString(),
             DateTime.Now.ToLongDateString());
-        w.WriteLine("  :");
-        w.WriteLine("  :{0}", logMessage);
+        w.WriteLine("Client name : Chalupa Batman");
+        w.WriteLine("Account number : 8765309-01");
+        w.WriteLine("Account type : Checking");
+        w.WriteLine("Transaction amount : {0}", logMessage);
+        w.WriteLine("Account Balance : ");
+
         w.WriteLine("-------------------------------");
     }
 
